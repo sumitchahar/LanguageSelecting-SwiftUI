@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizationView
+
+  Created by Sumit on 18/08/24.
+  
+*/
+
+"key_title" = "Programación SwiftUI";
+"key_describtion" = "SwiftUI proporciona vistas, controles y estructuras de diseño para declarar la interfaz de usuario de su aplicación. El marco proporciona controladores de eventos para entregar toques, gestos y otros tipos de entrada a su aplicación, y herramientas para administrar el flujo de datos desde los modelos de su aplicación hasta las vistas y controles que los usuarios ven e interactúan con ellos.";
+
